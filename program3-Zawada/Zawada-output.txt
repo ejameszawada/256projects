@@ -1,0 +1,10 @@
+Season Results: Dallas Mavericks
+
+Los Angeles Lakers     88 - 87   W 
+Golden State Warriors  97 - 102  L 
+Boston Celtics        103 - 101  W 
+Phoenix Suns           89 - 86   W 
+
+W  L  T  W-PCT  PF  PA  DIFF  STRK
+=  =  =  =====  ==  ==  ====  ====
+3  1  0  0.750  377  376   1     W2 
